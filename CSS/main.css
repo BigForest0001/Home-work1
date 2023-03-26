@@ -5,5 +5,11 @@ body {
     color: blue;
 }
 .header-style {
-text-decoration: none;
+text-decoration style: none;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
 }
