@@ -1,3 +1,9 @@
 body {
     background-color: greenyellow;
 }
+.logo {
+    color: blue;
+}
+.header-style {
+text-decoration: none;
+}
