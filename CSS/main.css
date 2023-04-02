@@ -24,8 +24,14 @@ body {
     color: #434455;
 }
 
-.site-nav .link :hover {
-    color: aqua;
+.site-nav .link:hover,
+ .site-nav .link:focus {
+    color: black;
 }
+
+.menu-nav .link:hover, .menu-nav .link:focus {
+    color: black;
+}
+
 
 /*Hero style*/
