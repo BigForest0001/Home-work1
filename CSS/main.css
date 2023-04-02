@@ -29,9 +29,31 @@ body {
     color: black;
 }
 
-.menu-nav .link:hover, .menu-nav .link:focus {
+.menu-nav .link:hover, 
+.menu-nav .link:focus {
     color: black;
 }
 
 
 /*Hero style*/
+
+
+/*Section Benefits Style*/
+.section-title {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+.nav-benefits p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/*section header*/
+.header-h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+}
