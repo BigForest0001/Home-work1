@@ -17,7 +17,6 @@ body {
 }
 .site-nav a {
     text-decoration: none;
-
 }
 .menu-nav a {
     text-decoration: none;
@@ -32,6 +31,9 @@ body {
 .menu-nav .link:hover, 
 .menu-nav .link:focus {
     color: black;
+}
+.current .link {
+    color: #4D5AE5;
 }
 
 
