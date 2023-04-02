@@ -1,7 +1,6 @@
 body {
     background-color: greenyellow;
 
-/*logo style*/
 }
 .logo span {
     color: #4D5AE5
@@ -13,5 +12,4 @@ body {
 
 .list {
     list-style: none;
-    text-decoration: none;
 }
