@@ -36,6 +36,13 @@ body {
 
 
 /*Hero style*/
+.hero {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07px;
+    text-align: center;
+    letter-spacing: 0.02em;
+}
 
 
 /*Section Benefits Style*/
@@ -51,9 +58,12 @@ body {
     line-height: 1.5;
 }
 
-/*section header*/
+/*section H2 headers*/
 .header-h2 {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
 }
