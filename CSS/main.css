@@ -1,15 +1,16 @@
 body {
     background-color: greenyellow;
+
+/*logo style*/
+}
+.logo span {
+    color: #4D5AE5
+    ;
 }
 .logo {
-    color: blue;
-}
-.header-style {
-text-decoration style: none;
-}
-a {
     text-decoration: none;
 }
-ul {
+
+.list {
     list-style: none;
 }
